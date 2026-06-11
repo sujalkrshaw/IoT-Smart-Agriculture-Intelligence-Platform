@@ -306,36 +306,47 @@ Start irrigation cycle.
 
 ---
 
-# 📸 Screenshots
+## 📸 Project Screenshots
 
-## Dashboard
+### 🏠 Main Dashboard
 
-Add dashboard screenshot here
-
-```text
-images/dashboard.png
-```
+![Dashboard](outputs/dashboard.png.png)
 
 ---
 
-## Circuit Diagram
+### 📊 Dashboard Analytics View
 
-Add circuit screenshot here
-
-```text
-circuit_diagram/circuit.png
-```
+![Dashboard Analytics](outputs/dashboard_2.png.png)
 
 ---
 
-## Architecture Diagram
+### 📈 Analytics Overview
 
-Add architecture image here
+![Analytics](outputs/analysis.png.png)
 
-```text
-images/architecture.png
-```
+---
 
+### 📉 Advanced Analytics
+
+![Analytics 2](outputs/analysis_2.png.png)
+
+---
+
+### 📋 Sensor Data Logs
+
+![Data Logs](outputs/data_logs.png.png)
+
+---
+
+### 🖥️ Python Simulator
+
+![Simulator](outputs/simulator.png.png)
+
+---
+
+### 🏗️ System Architecture
+
+![Architecture](outputs/structure.png)
 ---
 
 # 📚 Learning Outcomes
